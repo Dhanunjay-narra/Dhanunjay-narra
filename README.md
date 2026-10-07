@@ -2,11 +2,11 @@
 
   <!-- Header Banner / Typing SVG with Pastel Colors -->
   <a href="https://github.com/Dhanunjay-narra">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=BDB2FF&center=true&vCenter=true&width=650&lines=Hi+There!+👋+I'm+Dhanunjay+Narra;B.Tech+CSE+%7C+Tirumala+Engineering+College+🎓;Full+Stack+Software+Developer+💻;Python%2C+Django%2C+Flask+%26+React+🚀;Data+Analytics+%26+Automation+Engineer+✨" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=BDB2FF&center=true&vCenter=true&width=650&lines=Hi+There!+👋+I'm+Dhanunjay+Narra;Frontend+%26+Full+Stack+Developer+💻;Building+Full+Stack+AI+Applications+🤖;React%2C+Next.js%2C+Python+%26+Modern+Web+🚀;Crafting+Scalable+UI%2FUX+%26+Intelligent+Systems+✨" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    <strong>💡 Motivated Full-Stack Developer | Python & React Specialist | Data & Systems Enthusiast</strong>
+    <strong>💡 Frontend Engineer & Full Stack AI Developer | React, Next.js, Python & Cloud Enthusiast</strong>
   </p>
 
   <!-- Badges / Profile Views & Followers -->
@@ -23,15 +23,13 @@
 
 ## 💫 About Me:
 
-- 🔭 I’m currently working on **Full-Stack Web Applications, Python Automation & Enterprise Solutions**.
-- 💼 Delivered a fully functional commercial website for client operations: **[Sree Water Solutions Platform](http://sreewatersolutions.com)**.
-- 🔬 Completed a major Deep Learning project on **Music Signal Classification** using audio processing algorithms.
-- 🎓 **B.Tech (2022 - 2026)** at *Tirumala Engineering College* with an **8.0 CGPA**.
-- 👯 I’m looking to collaborate on **Full-Stack Web Apps, Open-Source, and Python/AI Automation projects**.
-- 🤝 I’m looking for help with **Large-Scale System Design & Cloud Architecture**.
-- 🌱 I’m currently learning and refining my skills in **Docker, Cloud Platforms (AWS), and Microservices**.
-- 💬 Ask me about **Python, Django, Flask, React, JavaScript, REST APIs, MySQL, PostgreSQL & Linux**.
-- ⚡ Fun fact: *I love turning complex real-world problems into clean, efficient, and scalable software! 🚀*
+- 🔭 I’m currently building **Full-Stack AI Applications**, integrating modern LLMs and intelligent workflows with scalable web architectures.
+- 🎨 Passionate about **Frontend Development** — crafting pixel-perfect, highly responsive, and user-centric interfaces using **React, Next.js & Tailwind CSS**.
+- ⚙️ Skilled in building resilient backend systems, RESTful APIs, and database models using **Python (Django / Flask)** and **Node.js**.
+- 🤖 Exploring cutting-edge concepts in **AI Agents, Generative AI Integration, and Automated Full-Stack Workflows**.
+- 👯 I’m open to collaborating on **innovative Full-Stack AI tools, open-source projects, and high-performance web apps**.
+- 💬 Ask me about **Frontend Architecture (React/Next.js), Full-Stack AI, Python, REST APIs, Databases & Modern Web Technologies**.
+- ⚡ Fun fact: *I love bridging the gap between cutting-edge AI capabilities and intuitive user experiences! 🚀*
 
 ---
 
@@ -47,9 +45,6 @@
   <a href="https://github.com/Dhanunjay-narra">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="http://sreewatersolutions.com" target="_blank">
-    <img src="https://img.shields.io/badge/Live%20Client%20Project-009688?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
-  </a>
   <a href="https://leetcode.com/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
@@ -57,47 +52,40 @@
 
 ---
 
-## 💻 Tech Stack & Toolkit:
+## 💻 Tech Stack & Skills:
 
-### 🚀 Programming Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-</p>
-
-### 🌐 Web & Backend Frameworks
+### 🎨 Frontend Development
 <p align="left">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 </p>
 
-### 🗄️ Databases & Cloud
+### 🤖 Full Stack AI & Backend
 <p align="left">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
 </p>
 
-### 🛠️ Developer Tools & Analytics
+### 🗄️ Databases & DevOps
 <p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Data_Analytics-FF6F00?style=for-the-badge&logo=python&logoColor=white" alt="Data Analytics" />
-  <img src="https://img.shields.io/badge/Deep_Learning-FF6F61?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning" />
-  <img src="https://img.shields.io/badge/IoT-005B96?style=for-the-badge&logo=arduino&logoColor=white" alt="IoT" />
 </p>
 
 ---
@@ -144,17 +132,17 @@
 
 | Project | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
-| 🌐 **Sree Water Solutions Platform** | Designed and delivered a fully functional commercial web platform for client operations, service management, and customer reach. | `React` `Node.js` `MySQL` `REST APIs` | [Live Site](http://sreewatersolutions.com) • [Repo](https://github.com/Dhanunjay-narra) |
-| 🎵 **Music Signal Classification** | Major final year engineering project utilizing advanced deep learning algorithms for automated audio and music signal classification. | `Python` `Deep Learning` `Librosa` `NumPy` | [Repo](https://github.com/Dhanunjay-narra) |
-| ⚡ **Full-Stack & Automation Apps** | Web applications with secure REST APIs, authentication, and background automated task scripts. | `Python` `Django` `Flask` `Docker` `PostgreSQL` | [Repo](https://github.com/Dhanunjay-narra) |
+| 🌐 **Sree Water Solutions Platform** | Designed and delivered a fully functional commercial client platform for business operations, customer interactions, and service management. | `React` `JavaScript` `MySQL` `REST APIs` | [Live Site](http://sreewatersolutions.com) • [Repo](https://github.com/Dhanunjay-narra) |
+| 🤖 **Full-Stack AI Application** | Modern intelligent web application integrating AI model APIs, smart interactive assistants, and responsive dashboard workflows. | `Python` `React` `FastAPI / Flask` `TailwindCSS` | [Repo](https://github.com/Dhanunjay-narra) |
+| ⚡ **Full-Stack Enterprise & Automation Apps** | High-performance full-stack applications with secure authentication, RESTful services, and automated workflow scripts. | `Python` `Django` `Flask` `Docker` `PostgreSQL` | [Repo](https://github.com/Dhanunjay-narra) |
 
 ---
 
 ## 📜 Certifications & Honors:
 
+- 🏅 **Full Stack Web Development Internship** – SkillDzire
 - 🏅 **Data Analytics Virtual Internship in Python** – APSSDC
 - 🏅 **C Language Programming Certification** – Infosys Springboard
-- 🏅 **Full Stack Web Development Internship** – SkillDzire
 - 🏅 **Internet of Things (IoT) Virtual Internship**
 
 ---
