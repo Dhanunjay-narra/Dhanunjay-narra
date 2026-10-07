@@ -1,25 +1,3 @@
-<div align="center">
-
-  <!-- Header Banner / Typing SVG with Pastel Colors -->
-  <a href="https://github.com/Dhanunjay-narra">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=BDB2FF&center=true&vCenter=true&width=650&lines=Hi+There!+👋+I'm+Dhanunjay+Narra;Frontend+%26+Full+Stack+Developer+💻;Building+Full+Stack+AI+Applications+🤖;React%2C+Next.js%2C+Python+%26+Modern+Web+🚀;Crafting+Scalable+UI%2FUX+%26+Intelligent+Systems+✨" alt="Typing SVG" />
-  </a>
-
-  <p align="center">
-    <strong>💡 Frontend Engineer & Full Stack AI Developer | React, Next.js, Python & Cloud Enthusiast</strong>
-  </p>
-
-  <!-- Badges / Profile Views & Followers -->
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Dhanunjay-narra&label=Profile%20Views&color=BDB2FF&style=flat-square" alt="Profile Views" />
-    <a href="https://github.com/Dhanunjay-narra?tab=followers"><img src="https://img.shields.io/github/followers/Dhanunjay-narra?label=Followers&style=flat-square&color=A0C4FF" alt="Followers"></a>
-    <a href="https://github.com/Dhanunjay-narra"><img src="https://img.shields.io/github/stars/Dhanunjay-narra?style=flat-square&color=FFD6A5" alt="Stars"></a>
-    <img src="https://img.shields.io/badge/Status-Open%20for%20Opportunities-CAFFBF?style=flat-square" alt="Open for Opportunities" />
-  </p>
-
-</div>
-
----
 
 ## 💫 About Me:
 
